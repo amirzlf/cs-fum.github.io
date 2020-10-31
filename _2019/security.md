@@ -7,18 +7,16 @@ video:
   id: OBx_c-i-M8s
 ---
 
-The world is a scary place, and everyone's out to get you.
+دنیا جای ترسناکی است، و آن بیرون همه میخواهند به شما آسیب برسانند.
 
-Okay, maybe not, but that doesn't mean you want to flaunt all your
-secrets. Security (and privacy) is generally all about raising the bar
-for attackers. Find out what your threat model is, and then design your
-security mechanisms around that! If the threat model is the NSA or
-Mossad, you're _probably_ going to have a bad time.
+باشه، شاید هم اینطور نباشد، اما همچنان شما نمیخواهید اسرارتان را جار بزنید.
+امنیت (و حریم شخصی) عموما درباره بلند کردن حفاض ها در برابر محاجمان است. مدل تحدیدت
+را پیدا کن ، سپس سازوکار امنیتی خود را دور آن بسازید! اگر مدل تحدید ان.اس .ای یا موساد باشند،
+_احتمالا_ قرار است کهدوران سختی را بگزرانید.
 
-There are _many_ ways to make your techn
-ical persona more secure. We'll
-touch on a lot of high-level things here, but this is a process, and
-educating yourself is one of the best things you can do. So:
+راه های _زیادی_ برای امن تر کردن شخصیت مجازی شما وجود دارند.
+اینجا قرار است به چیزهای سطح بالای زیادی اشاره کنیم، اما این یک روند است،
+و در این جهت، خود آموزی یکی از بهترین کار هاییست که میتوانید انجام دهید. پس:
 
 ## Follow the Right People
 
